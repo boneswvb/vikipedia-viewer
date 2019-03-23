@@ -1,0 +1,52 @@
+body { 
+    background-image: url("http://res.cloudinary.com/wimvb/image/upload/v1510496470/bground5_hn3ue2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:100%;
+   }
+
+.container {
+    color: blue;
+    font-family: Lobster;
+}
+
+.p {
+    color:black;
+}
+
+ .plane {
+    color:yellow;
+}
+
+.question {
+    color:black;
+    font-family:airial;
+    padding-bottom:15px;
+}
+
+.footer {
+    background-color:green;
+    text-align:center;
+}
+.textbox {
+    border: 3px blue solid;
+    border-radius: 30px;
+    text-align: center;
+    padding:50px 0 50px 0;
+    margin-bottom: 110px;
+    margin-top: 110px;
+}
+
+.random {
+    border: 3px blue solid;
+    border-radius: 30px;
+    text-align: center;
+    padding:50px 0 50px 0;
+    margin-bottom: 110px;
+    margin-top: 110px;
+}
+
+.center-text {
+    font-size:80px;
+}
